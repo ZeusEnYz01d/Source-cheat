@@ -20,3 +20,5 @@ http://joueursdecodfr.mygamesonline.org/leak/CWunlock-main.zip
 Evo
 https://github.com/ritz-1337/fortnite-external-evo.gj
 
+### XDefiant
+http://joueursdecodfr.mygamesonline.org/leak/ProjectDefiant.zip
