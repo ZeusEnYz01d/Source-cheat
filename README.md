@@ -1,3 +1,7 @@
+
+![Discord Banner 2](https://discord.com/api/guilds/1182223934276513893/widget.png?style=banner2)
+<img src="https://discord.com/api/guilds/1182223934276513893/widget.png?style=banner1" alt="Discord Banner 1"/>
+
 ### Black Ops 4
 Unlock All Temps : 
 http://joueursdecodfr.mygamesonline.org/leak/BO4unlock-main.zip
