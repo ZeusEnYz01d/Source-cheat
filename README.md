@@ -1,6 +1,5 @@
 
-![Discord Banner 2](https://discord.com/api/guilds/1182223934276513893/widget.png?style=banner2)
-<img src="https://discord.com/api/guilds/1182223934276513893/widget.png?style=banner1" alt="Discord Banner 1"/>
+<iframe src="https://discord.com/widget?id=1182223934276513893&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ### Black Ops 4
 Unlock All Temps : 
