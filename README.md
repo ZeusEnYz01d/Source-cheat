@@ -4,6 +4,10 @@
 Unlock All Temps : 
 http://joueursdecodfr.mygamesonline.org/leak/BO4unlock-main.zip
 
+Lergware >
+https://github.com/nutworthe/BO4-Lergware
+
+Falling > https://github.com/Fallingfl/Fallingfl-BO4
 ### Black Ops 3 
 Niggerbot : 
 https://drive.proton.me/urls/AD5NS1TDDG#fXIFgL4pQJRF
