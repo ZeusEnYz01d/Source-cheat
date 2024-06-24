@@ -24,3 +24,8 @@ https://github.com/ritz-1337/fortnite-external-evo.gj
 
 ### XDefiant
 http://joueursdecodfr.mygamesonline.org/leak/ProjectDefiant.zip
+
+### GTA 5
+
+- Source > http://joueursdecodfr.mygamesonline.org/leak/Aera_.zip
+- - Dll > http://joueursdecodfr.mygamesonline.org/leak/DLL-PLUTO-MENU.zip
